@@ -1,3 +1,1 @@
 # animated-stopwatch
-
-
